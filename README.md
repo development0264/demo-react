@@ -59,7 +59,5 @@ Each kind should be separated by an empty line.
 	
 •	Test files should be named the same as the component or non-component file.
 	
-•	CSS files should be named the same as the component Pascal Case. Global1 CSS which applies to all components should be placed in global.css and should be named in camelCase
-	
-	Example: LoginScreen.css (for components), global.css (for global styles)
+•	CSS files should be named the same as the component Pascal Case. Global1 CSS which applies to all components should be placed in global.css and should be named in camelCase. Example: LoginScreen.css (for components), global.css (for global styles)
 
