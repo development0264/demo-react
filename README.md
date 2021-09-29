@@ -1,5 +1,6 @@
 ## Project Structure:
 source/
+
 	constants/(static texts)
 	fonts/(google fonts)
 	images/(necessary images)
@@ -18,7 +19,8 @@ source/
 
 
 ## Coding standards:
-•	Use a linter to make your code easier to review
+
+• Use a linter to make your code easier to review.
 •	Avoid Inline CSS as and when possible (a CSS class should be created when there are more than 2 CSS attributes).
 •	Create multiple files instead of writing a big file.
 •	Clean code is self-commenting. Use comments only to explain complex functions.
@@ -42,4 +44,4 @@ Each kind should be separated by an empty line.
 •	Folder name: Use camel Case 
 •	Test files should be named the same as the component or non-component file.
 •	CSS files should be named the same as the component Pascal Case. Global1 CSS which applies to all components should be placed in global.css and should be named in camelCase
-o	Example: LoginScreen.css (for components), global.css (for global styles)
+	Example: LoginScreen.css (for components), global.css (for global styles)
