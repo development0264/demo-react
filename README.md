@@ -20,7 +20,7 @@ source/
 
 ## Coding standards:
 
-• Use a linter to make your code easier to review.
+•	Use a linter to make your code easier to review
 •	Avoid Inline CSS as and when possible (a CSS class should be created when there are more than 2 CSS attributes).
 •	Create multiple files instead of writing a big file.
 •	Clean code is self-commenting. Use comments only to explain complex functions.
@@ -36,7 +36,7 @@ b. Library imports (Alphabetical order)
 c. Absolute imports from the project (Alphabetical order)
 d. Relative imports (Alphabetical order)
 e. Import * as
-f. Import ./<some file>.<some extension>
+f. Import ‘./<some file>.<some extension>
 Each kind should be separated by an empty line.
 •	Filename: Use pascal case for filename. Example: ReservationCard.jsx
 •	Component name: Use pascal case
@@ -44,4 +44,5 @@ Each kind should be separated by an empty line.
 •	Folder name: Use camel Case 
 •	Test files should be named the same as the component or non-component file.
 •	CSS files should be named the same as the component Pascal Case. Global1 CSS which applies to all components should be placed in global.css and should be named in camelCase
-	Example: LoginScreen.css (for components), global.css (for global styles)
+o	Example: LoginScreen.css (for components), global.css (for global styles)
+
